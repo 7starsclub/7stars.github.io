@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://7starsclub.github.io</id>
     <title>七曳星</title>
-    <updated>2021-09-12T10:03:18.731Z</updated>
+    <updated>2021-09-12T10:15:57.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://7starsclub.github.io"/>
     <link rel="self" href="https://7starsclub.github.io/atom.xml"/>
-    <subtitle>无公害太空漂泊废品</subtitle>
+    <subtitle>好像，没什么看的</subtitle>
     <logo>https://7starsclub.github.io/images/avatar.png</logo>
     <icon>https://7starsclub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 七曳星</rights>
