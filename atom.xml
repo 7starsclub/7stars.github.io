@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://7starsclub.github.io</id>
     <title>懒熊</title>
-    <updated>2021-09-16T04:30:47.513Z</updated>
+    <updated>2021-09-17T13:17:22.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://7starsclub.github.io"/>
     <link rel="self" href="https://7starsclub.github.io/atom.xml"/>
@@ -11,9 +11,26 @@
     <icon>https://7starsclub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 懒熊</rights>
     <entry>
-        <title type="html"><![CDATA[小站搭建的简易教程]]></title>
-        <id>https://7starsclub.github.io/post/da-jian-xiao-zhan/</id>
-        <link href="https://7starsclub.github.io/post/da-jian-xiao-zhan/">
+        <title type="html"><![CDATA[欢迎来到~懒熊的扫文小站]]></title>
+        <id>https://7starsclub.github.io/post/00/</id>
+        <link href="https://7starsclub.github.io/post/00/">
+        </link>
+        <updated>2021-09-17T13:08:29.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<p><strong>😘这里有你想要知道的关于扫文小站的一切</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<p><strong>😘这里有你想要知道的关于扫文小站的一切</strong></p>
+<!-- more -->
+<p><a href="">👉小站介绍👈</a><br>
+<a href="">👉食用说明👈</a><br>
+<a href="">👉小站搭建👈</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扫文小站：搭建教程]]></title>
+        <id>https://7starsclub.github.io/post/02/</id>
+        <link href="https://7starsclub.github.io/post/02/">
         </link>
         <updated>2021-09-16T01:56:39.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -33,7 +50,7 @@
 <p>作为小站的<strong>核心</strong>部分，只需上面三步就能完成<br>
 剩下就是你自己根据需求选择<strong>是否开通会员、建几个文件夹、是否要设立密码、访客权限</strong>等</p>
 </blockquote>
-<figure data-type="image" tabindex="1"><img src="http://tva1.sinaimg.cn/large/007xh00kly1gui96dboccj60pa09qdjl02.jpg" alt="价目表" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://tva1.sinaimg.cn/large/008eWlLhly1gujw9vd5b4j60pa09qgpd02.jpg" alt="价目表" loading="lazy"></figure>
 <blockquote>
 <p>附赠一张<strong>价目表</strong><br>
 如果是自用，免费版足矣<br>
@@ -44,11 +61,11 @@
 <h3 id="准备工作">准备工作</h3>
 <ul>
 <li><a href="https://git-scm.com/">👉点击下载Git👈</a><br>
-<img src="http://tva1.sinaimg.cn/large/007xh00kly1gui9rn6586j60z40deqd602.jpg" alt="image.png" loading="lazy"></li>
+<img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwavwfacj60z40deakk02.jpg" alt="image.png" loading="lazy"></li>
 <li><a href="https://gridea.dev/#started">👉点击下载Gridea👈</a><br>
-<img src="http://tva1.sinaimg.cn/large/007xh00kly1gui9t886s3j60wg0grtas02.jpg" alt="image.png" loading="lazy"></li>
+<img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwbfviomj60wg0grjth02.jpg" alt="image.png" loading="lazy"></li>
 <li><a href="https://github.com/">👉点击注册GitHub账户</a><br>
-<img src="http://tva1.sinaimg.cn/large/007xh00kly1gui9xrxuqwj60vw0dcwh502.jpg" alt="image.png" loading="lazy"></li>
+<img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwbqgqlej60vw0dcju202.jpg" alt="image.png" loading="lazy"></li>
 </ul>
 <blockquote>
 <p>然后安装你下载的<strong>Git</strong>和<strong>Gridea</strong><br>
@@ -56,8 +73,8 @@
 </blockquote>
 <h3 id="步骤一-创立一个github仓库">步骤一 创立一个Github仓库</h3>
 <ul>
-<li>点击new<img src="http://tva1.sinaimg.cn/large/007xh00kly1guia1zi321j60at01pmx502.jpg" alt="image.png" loading="lazy"></li>
-<li>点击create repository<img src="http://tva1.sinaimg.cn/large/007xh00kly1guia8exo2mj60xq0nnjye02.jpg" alt="image.png" loading="lazy"></li>
+<li>点击new<img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwc0csa6j60at01pq2x02.jpg" alt="image.png" loading="lazy"></li>
+<li>点击create repository<img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwcgitm1j60xq0nn0zs02.jpg" alt="image.png" loading="lazy"></li>
 <li>创立一个你的GitHub账户的token（令牌）
 <blockquote>
 <p>1.点开<strong>右上角头像</strong><br>
@@ -68,7 +85,7 @@
 </blockquote>
 </li>
 </ul>
-<figure data-type="image" tabindex="2"><img src="http://tva1.sinaimg.cn/large/007xh00kly1guiajq1tdtj61680jl7c302.jpg" alt="image.png" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwcozwl0j61680jlqas02.jpg" alt="image.png" loading="lazy"></figure>
 <blockquote>
 <p>接着会出现一串字符，请及时保存，因为它只出现一次<br>
 这就是你申请到的token（令牌）</p>
@@ -81,7 +98,7 @@
 <h3 id="步骤三-设置gridea">步骤三 设置Gridea</h3>
 <ul>
 <li>打开安装好的<strong>Gridea</strong></li>
-<li>找到远程，做以下工作(忽略懒熊手快打错的单词）<img src="http://tva1.sinaimg.cn/large/007xh00kly1guiaqsm1clj61580qidl102.jpg" alt="image.png" loading="lazy"></li>
+<li>找到远程，做以下工作(忽略懒熊手快打错的单词）<img src="https://wx1.sinaimg.cn/large/008eWlLhly1gujwd1b1lfj61580qi43q02.jpg" alt="image.png" loading="lazy"></li>
 <li>做完上述后，再点击<strong>同步</strong>（不过懒熊强烈建议你在同步前先进行本地预览），你的博客就做好了</li>
 </ul>
 <blockquote>
@@ -169,9 +186,46 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[食用指南]]></title>
-        <id>https://7starsclub.github.io/post/shi-yong-zhi-nan/</id>
-        <link href="https://7starsclub.github.io/post/shi-yong-zhi-nan/">
+        <title type="html"><![CDATA[扫文小站：自我介绍]]></title>
+        <id>https://7starsclub.github.io/post/01/</id>
+        <link href="https://7starsclub.github.io/post/01/">
+        </link>
+        <updated>2021-09-15T13:24:57.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="扫文小站是什么">扫文小站是什么</h2>
+<p>🎉这是一个懒熊自用的【<strong>原创</strong> 】【<strong>完结</strong>】【<strong>耽美</strong>】扫文站</p>
+<h2 id="扫文小站的目的">扫文小站的目的</h2>
+<p>🎉主要是<strong>记录</strong>和<strong>分享</strong>懒熊及小伙伴看过的文</p>
+<h2 id="扫文小站能干嘛">扫文小站能干嘛</h2>
+<p>🎉<strong>扫文</strong> ➕ <strong>推文</strong> ➕ <strong>求文</strong></p>
+<h2 id="扫文小站的优势">扫文小站的优势</h2>
+<p>🐻一目了然的文章属性：</p>
+<blockquote>
+<p>每一篇推文都<strong>由【视角】【推文者主观评分】【属性】【属性】【属性】（预警）（预警）组成</strong>，如果有单独想说的话，还可以在链接上方再次单独添加文字</p>
+</blockquote>
+<p>🐻方便快捷的扫文专区：</p>
+<blockquote>
+<p>懒熊会定期对推文专区进行整理，简单核实后，会通过属性将文章归类。这样小伙伴点进小站，就能快速锁定想看的元素然后翻找推文啦</p>
+</blockquote>
+<p>🐻众人平等的推文专区：</p>
+<blockquote>
+<p>在这里，所有的推文都是匿名、平等的。只要你的链接指向正确、能标明文章属性和预警，那就是一篇合格的推文，会被懒熊整理到扫文区。不会因为时间被埋没，也不会因为权限被藏到角落</p>
+</blockquote>
+<h2 id="扫文小站欢迎谁">扫文小站欢迎谁</h2>
+<p>🎉每一位喜欢看【完结】【原创】【耽美】的读者</p>
+<p>🎉求同存异，有一颗包容的心 <strong>（推文有原则性和重大问题时例外，请及时在意见区反馈）</strong></p>
+<p>🎉可以添加推文的小伙伴！！！你也可以把小站当作你的原耽阅读记录库</p>
+<p>🎉欢迎各个平台的推文，包括不限于晋江、长佩、海棠、废文、寒武纪年、米国度、豆腐、火星女频、微博发表、论坛文等</p>
+<p>最后，懒熊扫文小站主要还是懒熊和她的小伙伴自用，我们不欢迎任何<br>
+❌晋江作者【<strong>墨香铜臭</strong>】的粉丝！粉丝！粉丝！❌<br>
+❌极端【<strong>攻控</strong>】【<strong>受控</strong>】❌</p>
+<p>戳我食用指南👉👉👉<a href="https://7starsclub.github.io/post/shi-yong-zhi-nan/">食用指南</a><br>
+戳我进入小站👉👉👉<a href="http://qyx-7.ys168.com/">懒熊扫文小站</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扫文小站：食用方法]]></title>
+        <id>https://7starsclub.github.io/post/03/</id>
+        <link href="https://7starsclub.github.io/post/03/">
         </link>
         <updated>2021-09-15T13:24:57.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
