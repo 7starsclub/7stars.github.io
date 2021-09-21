@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://7starsclub.github.io</id>
     <title>懒熊</title>
-    <updated>2021-09-21T12:52:17.591Z</updated>
+    <updated>2021-09-21T12:58:46.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://7starsclub.github.io"/>
     <link rel="self" href="https://7starsclub.github.io/atom.xml"/>
@@ -22,9 +22,11 @@
         <content type="html"><![CDATA[<!-- more -->
 <p><strong>😘这里有你想要知道的关于扫文小站的一切</strong></p>
 <!-- more -->
-<h1 id="小站介绍"><a href="https://lazybear-blog.gitee.io/post/01/">👉小站介绍👈</a></h1>
-<h1 id="食用说明"><a href="https://lazybear-blog.gitee.io/post/03/">👉食用说明👈</a></h1>
-<h1 id="小站搭建"><a href="https://lazybear-blog.gitee.io/post/02/">👉小站搭建👈</a></h1>
+<ul>
+<li><a href="https://lazybear-blog.gitee.io/post/01/">👉小站介绍👈</a></li>
+<li><a href="https://lazybear-blog.gitee.io/post/03/">👉食用说明👈</a></li>
+<li><a href="https://lazybear-blog.gitee.io/post/02/">👉小站搭建👈</a></li>
+</ul>
 <p><strong>懒熊邮箱：LazyBear_7@126.com</strong></p>
 ]]></content>
     </entry>
